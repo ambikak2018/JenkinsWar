@@ -24,7 +24,7 @@
    <snapshotRepository>
      <id>deployment</id>
      <name>Internal snapshot Release</name>
-     <url>http://localhost:8090/manager/html/list</url>
+     <url>http://localhost:8090/</url>
    </snapshotRepository>
  </distributionManagement>
   <build>
