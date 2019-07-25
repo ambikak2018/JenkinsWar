@@ -19,7 +19,7 @@
    <repository>
      <id>deployment</id>
      <name>Internal Release</name>
-     <url>C:/Users/ambika.g.kulkarni/.m2/repository/</url>
+     <url>http://localhost:8090/manager/html/list/</url>
    </repository>
   
  </distributionManagement>
