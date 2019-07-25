@@ -19,13 +19,13 @@
    <repository>
      <id>deployment</id>
      <name>Internal Release</name>
-     <url>http://35.196.75.171:8081/nexus/content/repositories/sample-release-repo/</url>
+     <url>http://localhost:8090/</url>
    </repository>
-   <snapshotRepository>
+   <!--<snapshotRepository>
      <id>deployment</id>
      <name>Internal snapshot Release</name>
      <url>http://localhost:8090/</url>
-   </snapshotRepository>
+   </snapshotRepository>->
  </distributionManagement>
   <build>
     <finalName>JenkinsWar</finalName>
